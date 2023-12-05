@@ -1,0 +1,5 @@
+nombre
+apellidos 
+edad
+fecha de nacimiento 
+curso
